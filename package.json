@@ -1,0 +1,36 @@
+{
+  "name": "removehttpands-webpack-plugin",
+  "zhName": "移除文件中的https,http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git"
+  },
+  "files": [
+    "src",
+    "dist",
+    "README.md"
+  ],
+  "keywords": [
+    ""
+  ],
+  "bizlineIds": [
+    "1,2,4,8"
+  ],
+  "demoURL": "",
+  "tech": "vue",
+  "platform": "mobile",
+  "author": "hucheng",
+  "publishConfig": {
+  },
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+ 
+}
